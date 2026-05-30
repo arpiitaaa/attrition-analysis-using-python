@@ -124,16 +124,6 @@ Based on the analysis:
 3. Improve workload distribution and work-life balance initiatives.
 4. Use attrition analytics as part of workforce planning and retention strategies.
 
----
-
-## Future Improvements
-
-* Build a Logistic Regression model to predict employee attrition.
-* Compare multiple machine learning models.
-* Create an interactive dashboard using Power BI or Tableau.
-* Perform feature importance analysis to identify key attrition drivers.
-
----
 
 ## Author
 
